@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/PercentageErrorBars/Form1.cs) (VB: [Form1.vb](./VB/PercentageErrorBars/Form1.vb))
+<!-- default file list end -->
 # How to: Plot the Percentage Error Bars indicator on a chart
 
 
